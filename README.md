@@ -34,10 +34,10 @@
  
 <p align="left">
 
-<img src="https://img.icons8.com/ios/50/26e07f/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/ios-filled/50/26e07f/android-os.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/kotlin.png"/>
-<img src="https://img.icons8.com/ios/50/26e07f/ios-logo.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/ios-filled/50/f1663a/android-os.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/f1663a/kotlin.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/ios-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
