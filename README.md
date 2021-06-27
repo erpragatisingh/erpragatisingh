@@ -13,19 +13,17 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/erpragatisingh/"> <img src="https://img.icons8.com/ios/50/f1663a/linkedin.png"/></a>
 <a href="https://dev.to/erpragatisingh"><img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw" width = 54/></a>
-<a href="https://www.credly.com/earner/earned"><img src="https://pbs.twimg.com/profile_images/1324766281963360259/reW_iMvm_400x400.jpg" width = 64/></a>
+<a href="https://www.credly.com/users/erpragatisingh/badges"><img src="https://pbs.twimg.com/profile_images/1324766281963360259/reW_iMvm_400x400.jpg" width = 64/></a>
 <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/pragatisingh533/wallet"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-2Xt2U0SxS9LaYRUX-DnzZa5OIgfRA2cAQ&usqp=CAU" width = 54/></a>
 <a href="https://twitter.com/erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/f1663a/twitter.png" width = 54/></a>
 <a href="https://stackoverflow.com/users/2638235/prags?tab=profile"><img src="https://img.icons8.com/ios/50/f1663a/stackoverflow.png" width = 54/></a>
 <a href="https://medium.com/@erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/f1663a/medium-monogram--v1.png" width = 54/></a>
 <a href="https://trailblazer.me/id/singhpragati"><img src="https://img.icons8.com/ios/50/f1663a/salesforce.png"/></a>
- 
-  
-  
+<a href="https://www.hackerrank.com/pragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hakerdownload.jpeg"/></a>
+<a href="https://www.hackerearth.com/@erpragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hackerearth.png"/></a>
+
   </p>
-  
-  
-  
+
   <br>
   
 ### Languages and Tools:
