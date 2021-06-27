@@ -18,9 +18,9 @@
 <a href="https://twitter.com/erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/f1663a/twitter.png" width = 54/></a>
 <a href="https://stackoverflow.com/users/2638235/prags?tab=profile"><img src="https://img.icons8.com/ios/50/f1663a/stackoverflow.png" width = 54/></a>
 <a href="https://medium.com/@erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/f1663a/medium-monogram--v1.png" width = 54/></a>
-<a href="https://trailblazer.me/id/singhpragati"><img src="https://img.icons8.com/ios/50/f1663a/salesforce.png"/></a>
-<a href="https://www.hackerrank.com/pragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hakerdownload.jpeg"/></a>
-<a href="https://www.hackerearth.com/@erpragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hackerearth.png"/></a>
+<a href="https://trailblazer.me/id/singhpragati"><img src="https://img.icons8.com/ios/50/f1663a/salesforce.png"/ width = 54></a>
+<a href="https://www.hackerrank.com/pragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hakerdownload.jpeg" width = 54/></a>
+<a href="https://www.hackerearth.com/@erpragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hackerearth.png" width = 54/></a>
 
   </p>
 
