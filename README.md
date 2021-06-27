@@ -29,18 +29,20 @@
   
   
   <br>
-  ### Languages and Tools:
+  
+### Languages and Tools:
+ 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+
+<img src="https://img.icons8.com/ios/50/26e07f/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/ios-filled/50/26e07f/android-os.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/26e07f/kotlin.png"/>
+<img src="https://img.icons8.com/ios/50/26e07f/ios-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/26e07f/python.png"/>
+  
 </p>
 
 <br />
