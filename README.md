@@ -11,19 +11,17 @@
   
 <p align="center"><b><i>You can also find me on👀</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/erpragatisingh/"> <img src="https://img.icons8.com/nolan/54/linkedin.png"/></a>
+<p align="center"><a href="https://www.linkedin.com/in/erpragatisingh/"> <img src="https://img.icons8.com/ios/50/f1663a/linkedin.png"/></a>
 <a href="https://dev.to/erpragatisingh"><img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw" width = 54/></a>
 <a href="https://www.credly.com/earner/earned"><img src="https://pbs.twimg.com/profile_images/1324766281963360259/reW_iMvm_400x400.jpg" width = 64/></a>
 <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/pragatisingh533/wallet"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-2Xt2U0SxS9LaYRUX-DnzZa5OIgfRA2cAQ&usqp=CAU" width = 54/></a>
-  <a href="https://twitter.com/erpragatisingh"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width = 54/></a>
- <a href="https://stackoverflow.com/users/2638235/prags?tab=profile"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=1632960000&v=beta&t=KLpVB9qzGcdFPKP_Bc2BMU0xwjbAKMmevSYgje7SVV8" width = 54/></a>
-   <a href="https://medium.com/@erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png8" width = 54/></a>
-  
-  
-  
-  
+<a href="https://twitter.com/erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/f1663a/twitter.png" width = 54/></a>
+<a href="https://stackoverflow.com/users/2638235/prags?tab=profile"><img src="https://img.icons8.com/ios/50/f1663a/stackoverflow.png" width = 54/></a>
+<a href="https://medium.com/@erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/f1663a/medium-monogram--v1.png" width = 54/></a>
+<a href="https://trailblazer.me/id/singhpragati"><img src="https://img.icons8.com/ios/50/f1663a/salesforce.png"/></a>
  
- 
+  
+  
   </p>
   
   
@@ -38,11 +36,14 @@
 <img src="https://img.icons8.com/ios-filled/50/f1663a/android-os.png"/>
   <img src="https://img.icons8.com/ios-filled/50/f1663a/kotlin.png"/>
 <img src="https://img.icons8.com/ios/50/f1663a/ios-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/26e07f/python.png"/>
-  
+<img src="https://img.icons8.com/color/50/f1663a/nodejs.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/flutter.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/git.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/python--v1.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/mac-logo.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/php-logo.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/mysql-logo.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/windows-logo.png"/>
 </p>
 
 <br />
