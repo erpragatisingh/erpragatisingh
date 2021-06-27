@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# Heyaa! my name is Pragati  🌼
+# Pragati Singh ✔Technology Leader ✔Solution Architect & Consultant ✔Tech entrepreneur
 ### M.C.A., M.A(Psy), M.Com, M.A(P.A), PGDIBO(International Business Operation), M.A(Eco)
 
-<i>I love discovering & reading about new/ancient things 🐣. On my Github you'll find stuff related to Mobile App Development, Web Development, UI/UX & some more interesting topics like coding in Python(YES!). Currently I'm diving into Flutter, going along with UI/UX🖤.</i>
+<i>I love discovering & reading about new/ancient things 🐣. On my Github you'll find stuff related to Mobile App Development, Web Development, UI/UX & some more interesting topics like coding in Python(YES!). Currently I'm diving into Flutter, going along with UI/UX ❤️.</i>
 
 <i> Also, I take my energy from the preety good sounds produces by my larynx and I love doing that! 🎶
   
@@ -21,7 +21,9 @@
 <a href="https://trailblazer.me/id/singhpragati"><img src="https://img.icons8.com/ios/50/f1663a/salesforce.png"/ width = 54></a>
 <a href="https://www.hackerrank.com/pragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hakerdownload.jpeg" width = 54/></a>
 <a href="https://www.hackerearth.com/@erpragatisingh"><img src="https://github.com/erpragatisingh/erpragatisingh/blob/main/hackerearth.png" width = 54/></a>
-
+<a href="https://people.sap.com/singhpragati"><img src="https://img.icons8.com/ios/50/f1663a/sap.png" width = 54/></a>
+<a href="https://docs.microsoft.com/en-us/users/singhpragati/achievements"><img src="https://img.icons8.com/ios/50/f1663a/microsoft.png" width = 54/></a>
+ 
   </p>
 
   <br>
@@ -42,6 +44,9 @@
 <img src="https://img.icons8.com/ios/50/f1663a/php-logo.png"/>
 <img src="https://img.icons8.com/ios/50/f1663a/mysql-logo.png"/>
 <img src="https://img.icons8.com/ios/50/f1663a/windows-logo.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/sap.png"/>
+<img src="https://img.icons8.com/ios/50/f1663a/salesforce.png">
+<img src="https://img.icons8.com/ios/50/f1663a/red-hat.png"/>  
 </p>
 
 <br />
