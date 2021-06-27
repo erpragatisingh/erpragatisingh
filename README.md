@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# Heyaa! my name is Pragati 🌼
+# Heyaa! my name is Pragati  🌼
+### M.C.A., M.A(Psy), M.Com, M.A(P.A), PGDIBO(International Business Operation), M.A(Eco)
+
 <i>I love discovering & reading about new/ancient things 🐣. On my Github you'll find stuff related to Mobile App Development, Web Development, UI/UX & some more interesting topics like coding in Python(YES!). Currently I'm diving into Flutter, going along with UI/UX🖤.</i>
 
 <i> Also, I take my energy from the preety good sounds produces by my larynx and I love doing that! 🎶
@@ -14,12 +16,17 @@
 <a href="https://www.credly.com/earner/earned"><img src="https://pbs.twimg.com/profile_images/1324766281963360259/reW_iMvm_400x400.jpg" width = 64/></a>
 <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/pragatisingh533/wallet"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-2Xt2U0SxS9LaYRUX-DnzZa5OIgfRA2cAQ&usqp=CAU" width = 54/></a>
   <a href="https://twitter.com/erpragatisingh"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width = 54/></a>
+ <a href="https://stackoverflow.com/users/2638235/prags?tab=profile"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=1632960000&v=beta&t=KLpVB9qzGcdFPKP_Bc2BMU0xwjbAKMmevSYgje7SVV8" width = 54/></a>
+   <a href="https://medium.com/@erpragatisingh"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png8" width = 54/></a>
+  
+  
+  
+  
  
-  [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>][medium]
-  
-  
-  
+ 
   </p>
+  
+  
   
   <br>
   ### Languages and Tools:
@@ -57,4 +64,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[medium]: https://medium.com/@erpragatisingh
+ 
